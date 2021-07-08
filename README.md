@@ -7,6 +7,10 @@
 后台管理系统包括：
 - 讲师管理、课程分类管理、课程管理、统计分析、Banner管理、订单管理、权限管理等功能。
 
+跳转到[后台系统页面](https://github.com/JavaBull-dev/online-edu-admin)
+
+跳转到[前台系统页面](https://github.com/JavaBull-dev/online-edu-front)
+
 ### 用到的技术
 后端的主要技术架构是：
 - SpringBoot
