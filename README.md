@@ -28,5 +28,3 @@
 - element-ui
 - NUXT
 - ECharts
-
-![image](https://github.com/JavaBull-dev/online-edu-parent/admin.png)
